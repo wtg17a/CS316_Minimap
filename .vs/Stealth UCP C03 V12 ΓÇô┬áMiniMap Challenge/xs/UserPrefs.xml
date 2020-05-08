@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5C0AB38F-F36B-C09D-D393-1A84B898A4E4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/StealthPlayerCamera.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/StealthPlayerCamera.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Stealth_220UCP_220C03_220V12_220_42013_2A0MiniMap_220Challenge PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
